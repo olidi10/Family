@@ -15,7 +15,7 @@ namespace Family
 
 
             {
-                Text = "Greetings, Meet my family Members\n\nFather's name\n\nMicheal\n\nBrother's name\n\nPaul!",
+                Text = "Greetings, Meet my family Members\n\nFather's name\n\nMicheal\n\nBrother's name\n\nPaul\n\n Mother's Name Sannah!",
                  HorizontalTextAlignment = TextAlignment.Center,
                 VerticalTextAlignment = TextAlignment.Center,
                  FontSize = Device.GetNamedSize(NamedSize.Medium, typeof(Label)),
